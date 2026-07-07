@@ -33,7 +33,7 @@ A Machine Learning project that predicts whether a telecom customer is likely to
 ## 📂 Project Structure
 
 - `churn_prediction.py` — Core ML pipeline: data cleaning, encoding, training, evaluation, feature importance.
-- `streamlit_app.py` — Interactive dashboard for live churn prediction on custom customer inputs.
+- `app.py` — Interactive dashboard for live churn prediction on custom customer inputs.
 - `telco_churn.csv` — Dataset (download from Kaggle link above if not included).
 - `requirements.txt` — Python package dependencies.
 - `README.md` — Project documentation.
