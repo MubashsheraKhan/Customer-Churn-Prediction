@@ -3,7 +3,7 @@
 A Machine Learning project that predicts whether a telecom customer is likely to churn (cancel their subscription), based on their account and usage profile. Includes an interactive Streamlit dashboard for live predictions.
 
 ## 🚀 Live Application
-🔗 *Add your deployed Streamlit Cloud link here after deployment*
+🔗 [Live Demo](https://customer-churn-prediction-jhjwnabyvbhzgnj6eczsh3.streamlit.app/)
 
 ## 🧠 How It Works
 
