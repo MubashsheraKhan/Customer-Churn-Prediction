@@ -38,14 +38,5 @@ A Machine Learning project that predicts whether a telecom customer is likely to
 - `requirements.txt` — Python package dependencies.
 - `README.md` — Project documentation.
 
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-
-# Run the training/evaluation script
-python churn_prediction.py
-
-# Launch the interactive dashboard
-streamlit run streamlit_app.py
-```
+## 👩‍💻 Author
+Mubashshera Khan
